@@ -4,7 +4,7 @@ This repository is used to store concise notes and references from my ongoing le
 
 Focus areas include:
 - Programming fundamentals
-- Web development basics
+- Web development projects
 - Backend concepts
 - Version control with Git and GitHub
 
