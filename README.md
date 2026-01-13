@@ -7,5 +7,6 @@ Focus areas include:
 - Full-Stack projects
 - Backend concepts
 - Version control with Git and GitHub
+- Competetive programming
 
 The content will be updated gradually as I learn.
