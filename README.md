@@ -9,5 +9,6 @@ Focus areas include:
 - Version control with Git and GitHub
 - Competetive programming
 - Learning BlockChain (for now career plan )
+- Working on Bounties
 
 The content will be updated gradually as I learn.
