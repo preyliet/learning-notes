@@ -12,3 +12,6 @@ Focus areas include:
 - Working on Bounties
 
 The content will be updated gradually as I learn.
+
+This weeks Targets 
+- Go | PostgreSQL | Redis | Docker | REST
